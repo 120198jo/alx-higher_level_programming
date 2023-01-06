@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 print("Best School")
 
+=======
+#!/bin/bash
+python3 $PYFILE
+>>>>>>> bf7090f5b1401241f64c694822436bb424813d70
